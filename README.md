@@ -2,7 +2,7 @@
 
 Gray-scale Image Colorization of images using a Conditional Deep Convolutional Generative Adversarial Network (DCGAN). This is a PyTorch implementation of the Conditional DCGAN(Deep Convolutional Generative Adversarial Networks) based on the research paper [Image Colorization using Generative Adversarial Networkshttps](https://arxiv.org/pdf/1803.05400.pdf)
 
-The model is trained on a subset of Places-365 data containing 5000 images . I was not able to train on large dataset due to the non availability of GPU and other hardwares . The suggestions from the paper have been used for hyperparameter turning . The model was trained for about 60 epochs on Google Colab . The model displays some good results on the training set which are shown below . 
+The model is trained on a subset of Places-365 data containing 5000 images . I was not able to train on large dataset due to the non availability of GPU and other hardwares . The suggestions from the paper have been used for hyperparameter tuning . The model was trained for about 60 epochs on Google Colab . The model displays some good results on the training set which are shown below . 
 
 Drive Link for Dataset https://drive.google.com/drive/folders/1h_9OlPtBA1tHylqtBItxP9SncVgMM0Zm?usp=sharing
 
